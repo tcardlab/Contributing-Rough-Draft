@@ -28,11 +28,7 @@ The current state of development and full listing of tasks can always be viewed 
 </details>
 
 ## Getting Started:
-As an open source project we encourage a diverse set of backgrounds. As such, it is anticipated that you may not be familiar with all the recources we utalize. If you require help getting set up, please do not hesitate to ask! 
-
-Community:
--   Code of conduct
--   Getting in touch
+As an open source project we encourage a diverse set of backgrounds. As such, it is anticipated that you may not be familiar with all the recources we utalize. If you require help getting set up, please do not hesitate to ask!
 
 ###  1) Accounts:
 - *Repository:*  [GitHub](https://github.com/tcardlab/optimus_bind_sample)
