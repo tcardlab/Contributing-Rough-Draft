@@ -3,6 +3,7 @@ We appreciate your consideration in supporting the development of Optimus Bind. 
 
 ## State of Development:
 The current state of development and full listing of tasks can always be viewed at [Trello](https://trello.com/invite/b/V94BBx1d/4550ff50fe61eb27b8d304da57b00fe8/optimus-bind). Please coordinate with us on slack if you wish to contribute.
+
 <strong>Milestones Underway:</strong>
 <details>
 <summary>Scoring:</summary>
