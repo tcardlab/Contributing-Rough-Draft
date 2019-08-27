@@ -40,6 +40,7 @@ As an open source project we encourage a diverse set of backgrounds. As such, it
 
 ### 3) Workflow: 
 vClean this upV
+
 Due to the compartmentalized nature of this program and blah blah blah…..
 I have chosen Git-flow over GitHub-flow and utilizing version tags over stable branches for some of the following reasons:  
 • explicit/extensive workflow yields consistent practice & organized contributions  
