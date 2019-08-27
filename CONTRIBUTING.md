@@ -3,9 +3,7 @@ We appreciate your consideration in supporting the development of Optimus Bind. 
 
 ## State of Development:
 The current state of development and full listing of tasks can always be viewed at [Trello](https://trello.com/invite/b/V94BBx1d/4550ff50fe61eb27b8d304da57b00fe8/optimus-bind). Please coordinate with us on slack if you wish to contribute.
-<details>
-<summary><strong>Milestones Underway:</strong></summary>
-<br>
+<strong>Milestones Underway:</strong>
 <details>
 <summary>Scoring:</summary>
 
@@ -26,7 +24,6 @@ The current state of development and full listing of tasks can always be viewed 
 -   Testing is in its infancy
 -   Check 3rd party requirements
 -   Code cleanup (just revising and reviewing)
-</details>
 </details>
 
 ## Getting Started:
@@ -71,11 +68,11 @@ If you are familiar with git, but new to git-flow, this is you you:
 <details>
 <summary><strong>Gitflow-Expert:</strong></summary>
 
-You know what to do.
+- You know what to do.
 </details>
 
-
-While under development please refer the following topics to slack discussion:
+<br><br>
+## While under development please refer the following topics to slack discussion:
 ### Testing
 ### File bug report
 ### Suggest new features
