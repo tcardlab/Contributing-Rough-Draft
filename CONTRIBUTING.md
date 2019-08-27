@@ -39,13 +39,14 @@ As an open source project we encourage a diverse set of backgrounds. As such, it
 - Refer to [README.md](https://github.com/tcardlab/optimus_bind_sample#installing)
 
 ### 3) Workflow: 
+vClean this upV
 Due to the compartmentalized nature of this program and blah blah blah…..
 I have chosen Git-flow over GitHub-flow and utilizing version tags over stable branches for some of the following reasons:  
 • explicit/extensive workflow yields consistent practice & organized contributions  
 • no real need for continuous integration atm  
 • in regard to stable branches, no real need to maintain old versions (doable if needed arises).  
 • explicit versioning protocol accountable for a reproducible state
-
+get vid and link overview too
 
 <details>
 <summary><strong>Git-Beginner (GUI):</strong></summary>
