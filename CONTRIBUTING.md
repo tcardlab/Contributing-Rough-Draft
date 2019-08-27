@@ -68,6 +68,8 @@ If you are familiar with git, but new to git-flow, this is you you:
 - You know what to do.
 </details>
 
+https://github.com/kylelobo/The-Documentation-Compendium/blob/master/en/CONTRIBUTING.md
+
 <br><br>
 ## While under development please refer the following topics to slack discussion:
 ### Testing
