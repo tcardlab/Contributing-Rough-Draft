@@ -37,9 +37,9 @@ Community:
 -   Getting in touch
 
 ###  1) Accounts:
--- *Repository:*  [GitHub](https://github.com/tcardlab/optimus_bind_sample)
--- *To-do list:*  [Trello](https://trello.com/invite/b/V94BBx1d/4550ff50fe61eb27b8d304da57b00fe8/optimus-bind) (Click to join)
--- *Chat room:*  [Slack](https://bioscienceclub.slack.com/messages/CHK7D10MN/details/) (Upon request)
+ -- *Repository:*  [GitHub](https://github.com/tcardlab/optimus_bind_sample)
+ -- *To-do list:*  [Trello](https://trello.com/invite/b/V94BBx1d/4550ff50fe61eb27b8d304da57b00fe8/optimus-bind) (Click to join)
+ -- *Chat room:*  [Slack](https://bioscienceclub.slack.com/messages/CHK7D10MN/details/) (Upon request)
 
 ### 2) Environment and Installs:
 - Refer to [README.md](https://github.com/tcardlab/optimus_bind_sample#installing)
