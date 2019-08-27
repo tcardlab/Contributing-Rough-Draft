@@ -8,7 +8,7 @@ The current state of development and full listing of tasks can always be viewed 
 <details>
 <summary>Scoring:</summary>
 
--  IAlign.pl and ISAlign.pl rough drafts are being finished up.
+-  IAlign.pl and ISAlign.pl first drafts are being finished up.
 -  work on PSI-Blast and MSA is about to start
     <img src="https://lh3.googleusercontent.com/Yl9t4Qm6OU5cUxEEDBkifFS3pSrJe73Kk_oLAfhPB99GxBd1KaSOSjo9c-bv-O-8kmi5DYyCCNoKGXh5NGaRfCzq6JrSK3YhfMHpI3KLYO-Lcd-AvNlTN1H-o7lxBqGa5wQ_BimykjymOLeUygJWYmew1OJ0AuprrLyfdazKZuhmYwKn2Z9JC-7f26N-LNYgaS-5Oa54J9C8N25dQWj7-kXjF5Cb0XwmgWJr4ceMlv8K2RH_3IIfaIiQSG2aj4ViigcHLrN7hd9BT4ZtMW5fWKHqTK1kinWa2YuSnJcmys6urgWEmjxb1XMo5YkBdquvKkYyUjTE-ckgHNh4uGhk4gjXWAHxWgo9Lir0KzRMRuzQw5Cy6DcfDf8aIosOebm0bFdFrK-3M4bETHZ1EPKKEh1fEPPpEVSpa2znHf9cpY0zEm7XjG7o-tVXw1GREqYg8HUBjNG3PY2fZaIP2QCuRb1e--UC9KVK13CosHqH4B5yi1uaiPyIbRDHjBO3XoCrEB7brNvNJTGvZpgiSgZ3Gy3_h2N8Xojk4tTwYmsHW4YydfDt6jNLhgBzWmmSJuCWyfYU_xi-J_78xG2LZpijTPlsPKGcG47bGnNant9ArlUJiA008DT9OH1pknzrGzxQYCp2QBJVa-IkeBH-fL2b9cnWudDaBbsFqQQ0T2I0-myFcwx1DR2S5HAMDDJ0GKhmqk1_5nBbop6xjyYj5uRIxNF0=w1420-h966-no"> 
 </details>
