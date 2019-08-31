@@ -66,7 +66,7 @@ If you are new to GitFlow, just think of it as a naming convention for branches.
 currently maintained at... 
 
 <details>
-<summary>Reasoning</summary>
+<summary>Reasoning:</summary>
 
 - Explicit/extensive workflow yields consistent practice & organized contributions  
 - Highly segmented developement lends itself to well organized feature branches
