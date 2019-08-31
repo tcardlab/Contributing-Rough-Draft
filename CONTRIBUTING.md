@@ -40,7 +40,7 @@ As an open source project we encourage a diverse set of backgrounds. As such, it
 
 ### 3) On using git:
 <details>
-<summary><strong>Git-Beginner (GUI):</strong></summary>
+<summary><i>Git-Beginner (GUI):</i></summary>
 
 If you have no git/gitflow experience and just want to get to work:
 -   Sourcetree
@@ -48,14 +48,14 @@ If you have no git/gitflow experience and just want to get to work:
 </details>
 
 <details>
-<summary><strong>Git-Intermediate (Extensions):</strong></summary>
+<summary><i>Git-Intermediate (Extensions):</i></summary>
 
 If you are familiar with git, but new to GitFlow, this is you you:
 -   Gitflow avh
 </details>
 
 <details>
-<summary><strong>GitFlow-Expert:</strong></summary>
+<summary><i>GitFlow-Expert:</i></summary>
 
 - You know what to do.
 </details>
