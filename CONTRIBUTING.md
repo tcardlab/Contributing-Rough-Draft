@@ -41,7 +41,8 @@ As an open source project we encourage a diverse set of backgrounds. As such, it
 ### 3) Workflow: GitFlow 
 If you are new to GitFlow, just think of it as a naming convention for branches. Doing so helps to organize the development, release, and maintenance of the repo. 
 
-currently maintained at: [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh)
+Eplanation...
+Extensions currently maintained at: [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh)
 
 <details>
 <summary>Reasoning:</summary>
@@ -58,6 +59,7 @@ currently maintained at: [gitflow-avh](https://github.com/petervanderdoes/gitflo
 If you have no git/gitflow experience and just want to get to work:
 -   Sourcetree
 -   Github Desktop
+
 As a beginner, there is no need to concern yourself with the specifics of GitFlow. 
 Just fork/clone, branch, commit, push and pull features with proper nameing conventions.
 
@@ -69,8 +71,8 @@ https://github.com/tcardlab/optimus_bind_sample/fork
 <details>
 <summary><i>Git-Intermediate (Extensions):</i></summary>
 
-Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/fork).
 
+Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/fork).
 If you are familiar with git, but new to GitFlow, these extensions may help:
 -   [GitFlow avh cheat sheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 
@@ -80,7 +82,6 @@ If contributor:
 git checkout develop
 git checkout -b [feature, hotfix]/your-branch-name
 # work happens on branch
-
 Push branch
 Then make pull request
 ```
