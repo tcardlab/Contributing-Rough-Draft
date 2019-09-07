@@ -66,9 +66,8 @@ Just fork/clone, branch, commit, push and pull features with proper nameing conv
 Fork here:
 https://github.com/tcardlab/optimus_bind_sample/fork
 
-</details>
+<br></details>
 
-<br>
 <details>
 <summary><i>Git-Intermediate (Extensions):</i></summary>
 
@@ -78,35 +77,37 @@ If you are familiar with git, but new to GitFlow, these extensions may help:
 
 ```
 # Open [develop] branch
-	$ git checkout develop  
+    $ git checkout develop  
 # Create new branch off [develop] (-b)
 # Use one branch per feature / fix
-	$ git checkout -b [feature, hotfix]/your-branch-name
+    $ git checkout -b [feature, hotfix]/your-branch-name
 
 # work happens on branch
-	$ git commit -am 'short commit description'
+    $ git commit -am 'short commit description'
 
 # Share code
-	$ git push origin your-branch-name
+    $ git push origin your-branch-name
 
 # Submit changes (Performed on github)
   # If Contributor:
-	Submit pull request to [develop] branch
+    Submit pull request to [develop] branch
 	
   # If Forked:
-	Submit pull request of [your-branch-name] 
-	to original repo at [develop]
+    Submit pull request of [your-branch-name] 
+    to original repo at [develop]
+
+# Code review starts
+[`test`](https://help.github.com/en/articles/committing-changes-to-a-pull-request-branch-created-from-a-fork)
 ```
 [NOTE: Commits may occur on a pull request](https://help.github.com/en/articles/committing-changes-to-a-pull-request-branch-created-from-a-fork)
-</details>
+<br></details>
 
-<br>
 <details>
 <summary><i>GitFlow-Expert:</i></summary>
 
 Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/fork).
 - You know what to do.
-</details>
+<br></details>
 
 
 to Add:
