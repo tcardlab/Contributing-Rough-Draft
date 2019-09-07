@@ -41,11 +41,16 @@ As an open source project we encourage a diverse set of backgrounds. As such, it
 ### 3) Workflow (GitFlow): 
 If you are new to [GitFlow](https://www.youtube.com/watch?v=aJnFGMclhU8&t=194), just think of it as a naming convention for branches. Doing so helps to simultaneously manage the development, release, and maintenance of the repo. 
 
-[In practice](https://www.youtube.com/watch?v=Lj_jAFwofLs)
+Video explaining this [Workflow in practice](https://www.youtube.com/watch?v=Lj_jAFwofLs).
+
 
 Extensions currently maintained at: [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh)
-
 New to GitFlow? These extensions may help: [GitFlow avh cheat sheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+
+
+master, develop
+[feature, hotfix, bugfix, release]
+
 
 <details>
 <summary>Reasoning:</summary>
@@ -60,7 +65,7 @@ New to GitFlow? These extensions may help: [GitFlow avh cheat sheet](https://dan
 <summary><i>Git-Beginner (GUI):</i></summary>
 
 If you have no git/gitflow experience and just want to get to work:
-- [Github Desktop]([https://desktop.github.com/](https://desktop.github.com/))
+- [Github Desktop](https://desktop.github.com/)
 	- [Setup](https://help.github.com/en/desktop/getting-started-with-github-desktop/setting-up-github-desktop)
 	- The program itself is inherently directive, very easy to pick up.
 - [Sourcetree](https://www.sourcetreeapp.com/)
@@ -76,7 +81,7 @@ https://github.com/tcardlab/optimus_bind_sample/fork
 <details>  
 <summary><i>Git-Veteran (CLI):</i></summary>
 
-If you are new to CLI git, review [here](https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html).
+If you are new to command line git, review [here](https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html).
 
 **Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/fork).**
 ```
@@ -106,12 +111,15 @@ If you are new to CLI git, review [here](https://dont-be-afraid-to-commit.readth
 [NOTE: Commits may occur after pull request](https://help.github.com/en/articles/committing-changes-to-a-pull-request-branch-created-from-a-fork). After code review, if changes need to be made the pull request will automatically update with new commits. If you are to clone a forked directory, mkae sure you clone in  different directory than the origional clone.
 <br></details>
 
+### 5) Style and Structure:
+
 to Add:
 - PEP8
 - codebase structure...
 - commit messages
 	- [https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53#file-commit-message-guidelines-md](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53#file-commit-message-guidelines-md)
 - https://github.com/kylelobo/The-Documentation-Compendium/blob/master/en/PULL_REQUEST_TEMPLATE.md
+- [https://github.com/agis/git-style-guide](https://github.com/agis/git-style-guide)
 
 <br><br>
 ## While under development please refer the following topics to slack discussion:
