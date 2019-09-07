@@ -39,9 +39,10 @@ As an open source project we encourage a diverse set of backgrounds. As such, it
 - Refer to [README.md](https://github.com/tcardlab/optimus_bind_sample#installing)
 
 ### 3) Workflow (GitFlow): 
-If you are new to GitFlow, just think of it as a naming convention for branches. Doing so helps to organize the development, release, and maintenance of the repo. 
+If you are new to [GitFlow](https://www.youtube.com/watch?v=aJnFGMclhU8&t=194), just think of it as a naming convention for branches. Doing so helps to simultaneously manage the development, release, and maintenance of the repo. 
 
-Eplanation...
+[In practice](https://www.youtube.com/watch?v=Lj_jAFwofLs)
+
 Extensions currently maintained at: [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh)
 
 New to GitFlow? These extensions may help: [GitFlow avh cheat sheet](https://danielkummer.github.io/git-flow-cheatsheet/)
@@ -59,38 +60,42 @@ New to GitFlow? These extensions may help: [GitFlow avh cheat sheet](https://dan
 <summary><i>Git-Beginner (GUI):</i></summary>
 
 If you have no git/gitflow experience and just want to get to work:
--   Sourcetree
--   Github Desktop
+- [Github Desktop]([https://desktop.github.com/](https://desktop.github.com/))
+	- [Setup](https://help.github.com/en/desktop/getting-started-with-github-desktop/setting-up-github-desktop)
+	- The program itself is inherently directive, very easy to pick up.
+- [Sourcetree](https://www.sourcetreeapp.com/)
+	- [gitflow-intro](https://medium.com/@budioktaviyans/how-to-make-a-git-flow-using-sourcetree-20ab77fe6813)
 
-As a beginner, there is no need to concern yourself with the specifics of GitFlow. 
-Just fork/clone, branch, commit, push and pull features with proper nameing conventions.
+As a beginner, there is no need to concern yourself with the specifics of GitFlow, just the proper nameing conventions.
 
-Fork here:
+Fork 
 https://github.com/tcardlab/optimus_bind_sample/fork
 
 <br></details>
 
-<details>
-<summary><i>Git-CLI:</i></summary>
+<details>  
+<summary><i>Git-Veteran (CLI):</i></summary>
 
 If you are new to CLI git, review [here](https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html).
 
-Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/fork).
+**Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/fork).**
 ```
-# Clone approriate repo and enter directory
-# Open [develop] branch
+0) Clone approriate repo and enter directory
+
+1) Open [develop] branch
     $ git checkout develop  
-# Create new branch off [develop] (-b)
-# Use one branch per feature / fix
+    
+2) Create new branch off [develop] (-b)
+   Use one branch per feature / fix
     $ git checkout -b [feature, hotfix]/your-branch-name
 
-# Commit changes in relavent chunks as work proceeds 
+3) Commit changes in relavent chunks as work proceeds 
     $ git commit -am 'short commit description'
 
-# Share code online
+4) Share code online
     $ git push origin your-branch-name
 
-# Submit changes (Performed on GitHub)
+5) Submit changes (Performed on GitHub)
   # If Contributor:
     Submit pull request to [develop] branch
 	
