@@ -38,7 +38,7 @@ As an open source project we encourage a diverse set of backgrounds. As such, it
 ### 2) Environment and Installs:
 - Refer to [README.md](https://github.com/tcardlab/optimus_bind_sample#installing)
 
-### 3) Workflow: GitFlow 
+### 3) Workflow (GitFlow): 
 If you are new to GitFlow, just think of it as a naming convention for branches. Doing so helps to organize the development, release, and maintenance of the repo. 
 
 Eplanation...
@@ -68,35 +68,42 @@ https://github.com/tcardlab/optimus_bind_sample/fork
 
 </details>
 
+<br>
 <details>
 <summary><i>Git-Intermediate (Extensions):</i></summary>
-
 
 Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/fork).
 If you are familiar with git, but new to GitFlow, these extensions may help:
 -   [GitFlow avh cheat sheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 
-Otherwise,
-If contributor:
 ```
-git checkout develop
-git checkout -b [feature, hotfix]/your-branch-name
-# work happens on branch
-Push branch
-Then make pull request
-```
+# Open [develop] branch
+	$ git checkout develop  
+# Create new branch off [develop] (-b)
+# Use one branch per feature / fix
+	$ git checkout -b [feature, hotfix]/your-branch-name
 
-If forked:
-```
-git checkout develop
 # work happens on branch
-Request that we open a branch for you to merge into.
-```
+	$ git commit -am 'short commit description'
 
+# Share code
+	$ git push origin your-branch-name
+
+# Submit changes (Performed on github)
+  # If Contributor:
+	Submit pull request to [develop] branch
+	
+  # If Forked:
+	Submit pull request of [your-branch-name] 
+	to original repo at [develop]
+```
+[NOTE: Commits may occur on a pull request](https://help.github.com/en/articles/committing-changes-to-a-pull-request-branch-created-from-a-fork)
 </details>
 
+<br>
 <details>
 <summary><i>GitFlow-Expert:</i></summary>
+
 Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/fork).
 - You know what to do.
 </details>
