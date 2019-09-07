@@ -90,7 +90,7 @@ Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/
 # Share code online
 	$ git push origin your-branch-name
 
-# Submit changes (Performed on github)
+# Submit changes (Performed on GitHub)
   # If Contributor:
 	Submit pull request to [develop] branch
 	
@@ -101,10 +101,11 @@ Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/
 [NOTE: Commits may occur after pull request](https://help.github.com/en/articles/committing-changes-to-a-pull-request-branch-created-from-a-fork). After code review, if changes need to be made the pull request will automatically update with new commits. If you are to clone a forked directory, mkae sure you clone in  different directory than the origional clone.
 <br></details>
 
-<details>
-
 to Add:
 - PEP8
+- codebase structure...
+- commit messages
+	- [https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53#file-commit-message-guidelines-md](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53#file-commit-message-guidelines-md)
 - https://github.com/kylelobo/The-Documentation-Compendium/blob/master/en/PULL_REQUEST_TEMPLATE.md
 
 <br><br>
