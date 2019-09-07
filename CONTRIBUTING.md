@@ -97,9 +97,9 @@ If you are familiar with git, but new to GitFlow, these extensions may help:
     to original repo at [develop]
 
 # Code review starts
-[`test`](https://help.github.com/en/articles/committing-changes-to-a-pull-request-branch-created-from-a-fork)
 ```
 [NOTE: Commits may occur on a pull request](https://help.github.com/en/articles/committing-changes-to-a-pull-request-branch-created-from-a-fork)
+
 <br></details>
 
 <details>
