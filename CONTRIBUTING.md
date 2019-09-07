@@ -79,24 +79,24 @@ Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/
 ```
 # Clone approriate repo and enter directory
 # Open [develop] branch
-	$ git checkout develop  
+    $ git checkout develop  
 # Create new branch off [develop] (-b)
 # Use one branch per feature / fix
-	$ git checkout -b [feature, hotfix]/your-branch-name
+    $ git checkout -b [feature, hotfix]/your-branch-name
 
 # Commit changes in relavent chunks as work proceeds 
-	$ git commit -am 'short commit description'
+    $ git commit -am 'short commit description'
 
 # Share code online
-	$ git push origin your-branch-name
+    $ git push origin your-branch-name
 
 # Submit changes (Performed on GitHub)
   # If Contributor:
-	Submit pull request to [develop] branch
+    Submit pull request to [develop] branch
 	
   # If Forked:
-	Submit pull request of [your-branch-name] 
-	to original repo at [develop]
+    Submit pull request of [your-branch-name] 
+    to original repo at [develop]
 ```
 [NOTE: Commits may occur after pull request](https://help.github.com/en/articles/committing-changes-to-a-pull-request-branch-created-from-a-fork). After code review, if changes need to be made the pull request will automatically update with new commits. If you are to clone a forked directory, mkae sure you clone in  different directory than the origional clone.
 <br></details>
