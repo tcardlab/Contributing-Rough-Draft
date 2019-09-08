@@ -47,7 +47,9 @@ Video explaining this [Workflow in practice](https://www.youtube.com/watch?v=Lj_
 <summary><strong>Branching Conventions</strong></summary>
 
 *Core branches:* `master & develop` (do not commit to or duplicate these)
+
 *Work branches:* `branchtype/your-branch-title` (branchtypes blow)
+
 Master branches
 - `develop`
 - `hotfix/... `
