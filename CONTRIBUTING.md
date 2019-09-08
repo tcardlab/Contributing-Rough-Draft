@@ -134,7 +134,7 @@ to Add:
 - [https://github.com/agis/git-style-guide](https://github.com/agis/git-style-guide)
 
 <details>
-<summary style="font-size:30"><strong>6) Testing:</strong></summary>
+<summary style="font-size: 30px;"><strong>6) Testing:</strong></summary>
 
 IDK... reffer to read me.~
 lol
