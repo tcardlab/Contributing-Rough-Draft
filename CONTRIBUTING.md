@@ -44,24 +44,24 @@ If you are new to [GitFlow](https://www.youtube.com/watch?v=aJnFGMclhU8&t=194), 
 Video explaining this [Workflow in practice](https://www.youtube.com/watch?v=Lj_jAFwofLs) (~5min on 1.5 speed).
 
 <details>
-<summary><strong>Branching Conventions</strong></summary>
+<summary><strong>Branching Conventions:</strong></summary>
 
 *Core branches:* `master & develop` (do not commit to or duplicate these)
 
-*Work branches:* `branchtype/your-branch-title` (branchtypes blow)
+*Work branches:* `branchType/your-branch-title` (branchtypes blow)
 
-Master branches
+<u>Master branches<u>
 - `develop`
 - `hotfix/... `
 
-Develop branches:
+<u>Develop branches:<u>
  - `feature/... `
- - ` bugfix/... `
+ - `bugfix/... `
 -  `release/...`
 <br></details>
 
 <details>
-<summary>Reasoning:</summary>
+<summary><strong>Reasoning:</strong></summary>
 
 - Explicit/extensive workflow yields consistent practice & organized contributions  
 - Highly segmented developement lends itself to well organized feature branches
