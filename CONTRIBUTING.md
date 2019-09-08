@@ -131,7 +131,8 @@ Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/
 <details>
 <summary><strong>Codebase Structure:</strong></summary>
 
-Structure and organization is provided by [CookieCutter DataSci](https://drivendata.github.io/cookiecutter-data-science). 
+Structure and organization is provided by [CookieCutter DataSci](https://drivendata.github.io/cookiecutter-data-science).
+
 See [ReadMe](https://github.com/tcardlab/optimus_bind_sample#project-organization) for project outline.
 </details>
 
