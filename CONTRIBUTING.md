@@ -31,21 +31,15 @@ The current state of development and full listing of tasks can always be viewed 
 As an open source project we encourage a diverse set of backgrounds. As such, it is anticipated that you may not be familiar with all the recources we utalize. If you require help getting set up, please do not hesitate to ask!
 
 ###  1) Accounts:
-<details><summary></summary>
-
 - *Repository:*  [GitHub](https://github.com/tcardlab/optimus_bind_sample)
 - *To-do list:*  [Trello](https://trello.com/invite/b/V94BBx1d/4550ff50fe61eb27b8d304da57b00fe8/optimus-bind) (Click to join)
 - *Chat room:*  [Slack](https://bioscienceclub.slack.com/messages/CHK7D10MN/details/) (Upon request)
-</details>
 
 ### 2) Environment and Installs:
-<details><summary></summary>
-
 - Refer to [README.md](https://github.com/tcardlab/optimus_bind_sample#installing)
-</details>
 
 ### 3) Workflow (GitFlow): 
-<details><summary></summary>
+<details><summary>Toggle open</summary>
 
 If you are new to [GitFlow](https://www.youtube.com/watch?v=aJnFGMclhU8&t=194), just think of it as a naming convention for branches. Doing so helps to simultaneously manage the development, release, and maintenance of the repo. 
 
@@ -78,8 +72,6 @@ Video explaining this [Workflow in practice](https://www.youtube.com/watch?v=Lj_
 </details>
 
 ### 4) On using git:
-<details><summary></summary>
-
 <details>
 <summary><i>Git-Beginner (GUI):</i></summary>
 
@@ -133,10 +125,9 @@ Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/
 [GitFlow extensions](https://danielkummer.github.io/git-flow-cheatsheet/) may provide useful for anything more complex. Primarily in regaurd to more complex branch managment and releases. 
 (Extensions currently maintained at: [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh))
 <br></details>
-</details>
 
 ### 5) Style and Structure:
-<details><summary></summary>
+<details><summary>Toggle open</summary>
 
 to Add:
 - PEP8
