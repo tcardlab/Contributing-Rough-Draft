@@ -133,8 +133,12 @@ to Add:
 - https://github.com/kylelobo/The-Documentation-Compendium/blob/master/en/PULL_REQUEST_TEMPLATE.md
 - [https://github.com/agis/git-style-guide](https://github.com/agis/git-style-guide)
 
+
 <details>
-<summary style="font-size: 30px;"><strong>6) Testing:</strong></summary>
+<summary>
+
+### 6) Testing:
+</summary>
 
 IDK... reffer to read me.~
 lol
