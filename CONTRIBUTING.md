@@ -41,16 +41,22 @@ As an open source project we encourage a diverse set of backgrounds. As such, it
 ### 3) Workflow (GitFlow): 
 If you are new to [GitFlow](https://www.youtube.com/watch?v=aJnFGMclhU8&t=194), just think of it as a naming convention for branches. Doing so helps to simultaneously manage the development, release, and maintenance of the repo. 
 
-Video explaining this [Workflow in practice](https://www.youtube.com/watch?v=Lj_jAFwofLs).
+Video explaining this [Workflow in practice](https://www.youtube.com/watch?v=Lj_jAFwofLs) (~5min on 1.5 speed).
 
+<details>
+<summary><strong>Branching Conventions</strong></summary>
 
-Extensions currently maintained at: [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh)
-New to GitFlow? These extensions may help: [GitFlow avh cheat sheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+*Core branches:* `master & develop` (do not commit to or duplicate these)
+*Work branches:* `branchtype/your-branch-title` (branchtypes blow)
+Master branches
+- `develop`
+- `hotfix/... `
 
-
-master, develop
-[feature, hotfix, bugfix, release]
-
+Develop branches:
+ - `feature/... `
+ - ` bugfix/... `
+-  `release/...`
+<br></details>
 
 <details>
 <summary>Reasoning:</summary>
@@ -82,8 +88,9 @@ https://github.com/tcardlab/optimus_bind_sample/fork
 <summary><i>Git-Veteran (CLI):</i></summary>
 
 If you are new to command line git, review [here](https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html).
+<h4>Feature Contribution:</h4>
 
-**Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/fork).**
+Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/fork).
 ```
 0) Clone approriate repo and enter directory
 
@@ -92,7 +99,7 @@ If you are new to command line git, review [here](https://dont-be-afraid-to-comm
     
 2) Create new branch off [develop] (-b)
    Use one branch per feature / fix
-    $ git checkout -b [feature, hotfix]/your-branch-name
+    $ git checkout -b feature/your-branch-name
 
 3) Commit changes in relavent chunks as work proceeds 
     $ git commit -am 'short commit description'
@@ -108,7 +115,10 @@ If you are new to command line git, review [here](https://dont-be-afraid-to-comm
     Submit pull request of [your-branch-name] 
     to original repo at [develop]
 ```
-[NOTE: Commits may occur after pull request](https://help.github.com/en/articles/committing-changes-to-a-pull-request-branch-created-from-a-fork). After code review, if changes need to be made the pull request will automatically update with new commits. If you are to clone a forked directory, mkae sure you clone in  different directory than the origional clone.
+[NOTE: Commits may occur after pull request](https://help.github.com/en/articles/committing-changes-to-a-pull-request-branch-created-from-a-fork). After code review, if changes need to be made, the pull request will automatically update with new commits. If you are to clone a forked directory, make sure you clone to a different directory than where you keep the origional clone.
+
+[GitFlow extensions](https://danielkummer.github.io/git-flow-cheatsheet/) may provide useful for anything more complex. Primarily in regaurd to more complex branch managment and releases. 
+(Extensions currently maintained at: [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh))
 <br></details>
 
 ### 5) Style and Structure:
@@ -120,6 +130,14 @@ to Add:
 	- [https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53#file-commit-message-guidelines-md](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53#file-commit-message-guidelines-md)
 - https://github.com/kylelobo/The-Documentation-Compendium/blob/master/en/PULL_REQUEST_TEMPLATE.md
 - [https://github.com/agis/git-style-guide](https://github.com/agis/git-style-guide)
+
+<details>  
+<summary><h3>6) Testing:</h3></summary>
+
+IDK... reffer to read me.~
+lol
+<br></details>
+
 
 <br><br>
 ## While under development please refer the following topics to slack discussion:
