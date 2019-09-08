@@ -39,7 +39,7 @@ As an open source project we encourage a diverse set of backgrounds. As such, it
 - Refer to [README.md](https://github.com/tcardlab/optimus_bind_sample#installing)
 
 ### 3) Workflow (GitFlow): 
-<details><summary>Toggle open</summary>
+<details><summary>Toggle Details</summary>
 
 If you are new to [GitFlow](https://www.youtube.com/watch?v=aJnFGMclhU8&t=194), just think of it as a naming convention for branches. Doing so helps to simultaneously manage the development, release, and maintenance of the repo. 
 
@@ -125,18 +125,35 @@ Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/
 [GitFlow extensions](https://danielkummer.github.io/git-flow-cheatsheet/) may provide useful for anything more complex. Primarily in regaurd to more complex branch managment and releases. 
 (Extensions currently maintained at: [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh))
 <br></details>
+[Pull request checklist](https://github.com/kylelobo/The-Documentation-Compendium/blob/master/en/PULL_REQUEST_TEMPLATE.md)
 
 ### 5) Style and Structure:
-<details><summary>Toggle open</summary>
+<details>
+<summary><strong>Codebase Structure:</strong></summary>
 
-to Add:
-- PEP8
-- codebase structure...
-- commit messages
-	- [https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53#file-commit-message-guidelines-md](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53#file-commit-message-guidelines-md)
-- https://github.com/kylelobo/The-Documentation-Compendium/blob/master/en/PULL_REQUEST_TEMPLATE.md
-- [https://github.com/agis/git-style-guide](https://github.com/agis/git-style-guide)
-<br></details>
+Structure and organization is provided by [CookieCutter DataSci](https://drivendata.github.io/cookiecutter-data-science). 
+See [ReadMe](https://github.com/tcardlab/optimus_bind_sample#project-organization) for project outline.
+</details>
+
+<details>
+<summary><strong>Python:</strong></summary>
+
+Python submisson should follow [PEP8 guidlines](https://www.python.org/dev/peps/pep-0008/). Use a [PEP8 checker](http://pep8online.com/) or sufficient linter to ensure validity.
+
+*Exception:* comment spacing may be multiple of 2 as it is useful for collapsing section within functions in IDE's.
+ <br></details>
+
+<details>
+<summary><strong>Commit Messages:</strong></summary>
+
+[Review  best practice here](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53#file-commit-message-guidelines-md)
+
+Please make use of commit [descriptions](https://stackoverflow.com/questions/9562304/git-github-commit-with-extended-message-description):
+-   Describe why a change is being made.
+-   How does it address the issue?
+-   Do not assume the reviewer understands what the original problem was.
+-   Do not assume the code is self-evident/self-documenting.
+</details>
 
 ### 6) Testing:
 <details>
