@@ -46,7 +46,7 @@ If you are new to [GitFlow](https://www.youtube.com/watch?v=aJnFGMclhU8&t=194), 
 Video explaining this [Workflow in practice](https://www.youtube.com/watch?v=Lj_jAFwofLs) (~5min on 1.5 speed).
 
 <details>
-<summary><strong>Branching Conventions:</strong></summary>
+<summary>Branching Conventions:</summary>
 
 *Core branches:* `master & develop` (do not commit to or duplicate these)
 
@@ -63,7 +63,7 @@ Video explaining this [Workflow in practice](https://www.youtube.com/watch?v=Lj_
 <br></details>
 
 <details>
-<summary><strong>Reasoning:</strong></summary>
+<summary>Reasoning:</summary>
 
 - Explicit/extensive workflow yields consistent practice & organized contributions  
 - Highly segmented developement lends itself to well organized feature branches
@@ -129,7 +129,7 @@ Join as a contributor or [fork](https://github.com/tcardlab/optimus_bind_sample/
 
 ### 5) Style and Structure:
 <details>
-<summary><strong>Codebase Structure:</strong></summary>
+<summary><i>Codebase Structure:</i></summary>
 
 Structure and organization is provided by [CookieCutter DataSci](https://drivendata.github.io/cookiecutter-data-science).
 
@@ -137,7 +137,7 @@ See [ReadMe](https://github.com/tcardlab/optimus_bind_sample#project-organizatio
 </details>
 
 <details>
-<summary><strong>Python:</strong></summary>
+<summary><i>Python:</i></summary>
 
 Python submisson should follow [PEP8 guidlines](https://www.python.org/dev/peps/pep-0008/). Use a [PEP8 checker](http://pep8online.com/) or sufficient linter to ensure validity.
 
@@ -145,7 +145,7 @@ Python submisson should follow [PEP8 guidlines](https://www.python.org/dev/peps/
  <br></details>
 
 <details>
-<summary><strong>Commit Messages:</strong></summary>
+<summary><i>Commit Messages:</i></summary>
 
 [Review  best practice here](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53#file-commit-message-guidelines-md)
 
