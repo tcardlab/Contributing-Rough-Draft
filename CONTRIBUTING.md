@@ -39,7 +39,7 @@ As an open source project we encourage a diverse set of backgrounds. As such, it
 - Refer to [README.md](https://github.com/tcardlab/optimus_bind_sample#installing)
 
 ### 3) Workflow (GitFlow): 
-<details><summary>Toggle Details</summary>
+<details open><summary>Toggle Details</summary>
 
 If you are new to [GitFlow](https://www.youtube.com/watch?v=aJnFGMclhU8&t=194), just think of it as a naming convention for branches. Doing so helps to simultaneously manage the development, release, and maintenance of the repo. 
 
